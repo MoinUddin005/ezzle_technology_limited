@@ -5,10 +5,10 @@ const Header = () => {
   
 
     return (
-        <div>
-         <nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary">
+        <div className='Nav-bar w-100'>
+         <nav class="navbar sticky-top  navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
+            <a class="navbar-brand" href="/"><img className='image' src='../../../public/images/etl_logo_white.png' /></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>

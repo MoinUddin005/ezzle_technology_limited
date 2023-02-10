@@ -3,3 +3,25 @@
     top: 70%;
     left: 10%;
 }
+.Recent-work{
+    margin-top: -150px;   
+}
+.image{
+    width : 140px
+}
+.Nav-bar{
+    
+    position: absolute;
+    
+    
+}
+.welcome-part{
+   position: relative;
+}
+.font-icon{
+    height: 98px;
+    width : 98px;
+    line-height : 98px;
+    font-size: 30px
+    
+}
