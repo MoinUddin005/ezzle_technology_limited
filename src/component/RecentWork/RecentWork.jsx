@@ -3,7 +3,7 @@ import React from 'react';
 const RecentWork = () => {
     return (
         <div className='container Recent-work'>
-            <h1 className=''>Recent Work</h1>
+            <h1 className=''>Recent work</h1>
             <div class="row row-cols-1 row-cols-md-4 g-4">
                 <div class="col">
                     <div class="card h-100">
