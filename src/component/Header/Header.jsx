@@ -25,19 +25,19 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#">Portfolio</a>
+                <a className="nav-link active" aria-current="page" href="/">Portfolio</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">About Us</a>
+                <a className="nav-link" href="/">About Us</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Press</a>
+                <a className="nav-link" href="/">Press</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Career</a>
+                <a className="nav-link" href="/">Career</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Contact</a>
+                <a className="nav-link" href="/">Contact</a>
               </li>
             </ul>
           </div>

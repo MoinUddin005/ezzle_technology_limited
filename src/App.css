@@ -434,7 +434,12 @@
   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   
 }
-
+.text-color {
+  margin: 0px;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
 
 .contain {
   position: relative;
@@ -465,11 +470,4 @@
 
 .contain:hover .middle {
   opacity: 1;
-}
-
-.text {
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
-  padding: 16px 32px;
 }
