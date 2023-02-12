@@ -37,6 +37,7 @@ const RecentWork = () => {
                          <button className='btn btn-outline-success'>Details</button>
                       </div>
                     </div>
+                     <p className='text-black'><strong>web deploment</strong></p>
                     </div>
                 </div> 
                 <div className="col">
